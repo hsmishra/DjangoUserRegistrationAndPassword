@@ -2,7 +2,7 @@
 How to Add new Users and login password reset through email
 Installl virtual env. into your systm.
 Extract project and create a new folder for eg. mysite
-inside mysite dir create a vertual env using this commond vertualenv venv
+inside mysite dir create a vertual env using this commond virtualenv venv
 then activate vitual env by using venv\Source\activa
 then install django 1.11.8 by using  pip install django==1.11.8
 intall tweaks by pip install django-widget-tweaks
